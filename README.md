@@ -1,3 +1,3 @@
-# Mediator-Pattern
+# Mediator Pattern
 
-Projeto criado para estudar o mediator-pattern
+Project to study mediator pattern with C#
